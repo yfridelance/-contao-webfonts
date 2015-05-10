@@ -1,0 +1,36 @@
+{
+  "name": "yfridelance/contao-webfonts",
+  "description": "Extends Contao OpenSource CMS width a module to manage Webfonts flexible from various provider.",
+  "keywords": ["webfonts","typekit","google fonts"],
+  "type": "contao-module",
+  "license": "LGPL-3.0+",
+  "authors": [
+    {
+      "name": "Yves Fridelance",
+      "email": "yf@fridelance.ch",
+      "homepage": "http://fridelance.ch",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "support@fridelance.ch",
+    "source": "https://gitlab.com/yfridelance/contao-webfonts"
+  },
+  "require": {
+    "php": ">=5.3",
+    "contao/core": ">=3.2.1,<4"
+  },
+  "replace": {
+    "contao-legacy/fd_webfonts": "self.version"
+  },
+  "extra": {
+    "contao": {
+      "sources": {
+        "src": "system/modules/webfonts"
+      }
+    },
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}

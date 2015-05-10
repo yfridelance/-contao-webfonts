@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/df_webfonts/languages/en/tl_webfonts.php" source-language="en">
+        <body>
+            <trans-unit id="tl_webfonts.title_legend">
+                <source>Webfonts Settings</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekit_legend">
+                <source>Adobe Typekit</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFonts_legend">
+                <source>Google Fonts</source>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.name.0">
+                <source>Title</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.name.1">
+                <source>Please enter the article title.</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.0">
+                <source>Webfont alias</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.1">
+                <source>The webfont alias is a unique reference to the webfont which can be called instead of its numeric ID.</source>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.pages.0">
+                <source>Apply to</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.1">
+                <source>Specify which pages and nodes to be integrated font.</source>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.enableTypekit.0">
+                <source>Enable Adobe Typekit</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableTypekit.1">
+                <source>Activate this option to use Adobe Typekit.</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekitId.0">
+                <source>Typekit Kit ID</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekitId.1">
+                <source>Insert the 7 digit lenght ID from your Typekit Kit.</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableGoogleFonts.0">
+                <source>Enable Google fonts</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableTypekit.1">
+                <source>Activate this option to use Google fonts.</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFontsStr.0">
+                <source>Google web fonts</source>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFontsStr.1">
+                <source>Here you can add Google web fonts to your website. Specify the font families without the base URL (e.g. &lt;em&gt;Ubuntu|Ubuntu+Mono&lt;/em&gt;).</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

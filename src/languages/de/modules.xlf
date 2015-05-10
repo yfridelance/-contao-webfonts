@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/df_webfonts/languages/en/modules.php" source-language="en">
+        <body>
+            <trans-unit id="MOD.webfonts.0">
+                <source>Webfonts</source>
+                <target>Webschriften</target>
+            </trans-unit>
+            <trans-unit id="MOD.webfonts.1">
+                <source>Manage webfonts</source>
+                <target>Webfonts verwalten</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

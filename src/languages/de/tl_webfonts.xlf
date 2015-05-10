@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/df_webfonts/languages/en/tl_webfonts.php" source-language="en">
+        <body>
+            <trans-unit id="tl_webfonts.title_legend">
+                <source>Webfonts Settings</source>
+                <target>Webfonts Einstellungen</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekit_legend">
+                <source>Adobe Typekit</source>
+                <target>Adobe Typekit</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFonts_legend">
+                <source>Google Fonts</source>
+                <target>Google Fonts</target>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.name.0">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.name.1">
+                <source>Please enter the webfont title.</source>
+                <target>Bitte geben Sie den Webfont-Titel ein.</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.0">
+                <source>Webfont alias</source>
+                <target>Webfontalias</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.1">
+                <source>The webfont alias is a unique reference to the webfont which can be called instead of its numeric ID.</source>
+                <target>Der Webfontalias ist eine eindeutige Referenz, die anstelle der numerischen Webfont-ID aufgerufen werden kann.</target>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.pages.0">
+                <source>Apply to</source>
+                <target>Anwenden auf</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.alias.1">
+                <source>Specify which pages and nodes to be integrated font.</source>
+                <target>Legen sie fest auf welchen Seiten und Knoten die Schrift eingebunden werden soll.</target>
+            </trans-unit>
+
+            <trans-unit id="tl_webfonts.enableTypekit.0">
+                <source>Enable Adobe Typekit</source>
+                <target>Aktiviert Adobe Typekit</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableTypekit.1">
+                <source>Activate this option to use Adobe Typekit.</source>
+                <target>Aktivieren sie diese Option um Adobe Typekit zu nutzen.</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekitId.0">
+                <source>Typekit Kit ID</source>
+                <target>Typekit Kit ID</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.typekitId.1">
+                <source>Insert the 7 digit lenght ID from your Typekit Kit.</source>
+                <target>Geben sie hier ihre 7 stellige Typekit Kit ID ein.</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableGoogleFonts.0">
+                <source>Enable Google web fonts</source>
+                <target>Aktiviert Google Web Schriften</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.enableTypekit.1">
+                <source>Activate this option to use Google fonts.</source>
+                <target>Aktivieren sie diese Option um Google fonts zu nutzen.</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFontsStr.0">
+                <source>Google web fonts</source>
+                <target>Google Web Schriften</target>
+            </trans-unit>
+            <trans-unit id="tl_webfonts.googleFontsStr.1">
+                <source>Here you can add Google web fonts to your website. Specify the font families without the base URL (e.g. &lt;em&gt;Ubuntu|Ubuntu+Mono&lt;/em&gt;).</source>
+                <target>Hier können Sie Google-Webfonts zu Ihrer Webseite hinzfügen. Geben Sie die Schriftarten ohne die Basis-URL an (z.B. &lt;em&gt;Ubuntu|Ubuntu+Mono&lt;/em&gt;).</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
