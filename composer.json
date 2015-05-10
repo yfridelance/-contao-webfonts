@@ -26,7 +26,7 @@
   "extra": {
     "contao": {
       "sources": {
-        "src": "system/modules/webfonts"
+        "src": "system/modules/fd_webfonts"
       }
     },
     "branch-alias": {
